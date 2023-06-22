@@ -3,15 +3,15 @@
 Front Accounting is a online - Based Accounting Software for small and medium enterprises. This is one of the best accounting software.
 It is a multi-user System. It Supports Multiple Languages And curriencies. 
 ### It is Integrated with some Modules are:
-    - Sales
-    - Purchase
-    - Items & Inventory
-    -  Manufacturing
-    - Fixed assest
-    - Dimensions
-    - Banking and General Leadger
-    - SetUp
-
+     - Sales
+     - Purchase
+     - Items and Inventory
+     - Manufacturing
+     - Fixed Assests
+     - Dimensions
+     - Banking & General Leadger
+     - SetUp
+    
  
 ## Language
      PHP/Ajax
